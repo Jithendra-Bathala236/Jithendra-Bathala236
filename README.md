@@ -1,1 +1,2 @@
-<iframe src='https://my.spline.design/animatedtechbadgesfeedbackwanted-40c0ee91cd3f17bbd4cdae39d7b814c9/' frameborder='0' width='100%' height='100%'></iframe>
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.0.19/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/YkoYTIPVtFiEJvqy/scene.splinecode"></spline-viewer>
