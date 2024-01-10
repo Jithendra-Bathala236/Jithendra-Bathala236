@@ -84,7 +84,7 @@
 <br />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jithendra-bathala236&show_icons=true&locale=en&layout=compact" alt="jithendra-bathala236" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jithendra-bathala236&show_icons=true&locale=en&layout=compact" alt="jithendra-bathala236"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jithendra-bathala236&show_icons=true&locale=en" alt="jithendra-bathala236" />
 </p>
 <br />
