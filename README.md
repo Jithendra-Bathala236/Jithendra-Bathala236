@@ -77,24 +77,28 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   
- 
-  
-  
-  
-  
   <br />
-  
-  
-  
-  
-  
   
 </p>
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jithendra-bathala236&show_icons=true&locale=en&layout=compact" alt="jithendra-bathala236" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jithendra-bathala236&show_icons=true&locale=en&layout=compact" alt="jithendra-bathala236" height="200" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jithendra-bathala236&show_icons=true&locale=en" alt="jithendra-bathala236" />
+</p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jithendra-bathala236&show_icons=true&locale=en" alt="jithendra-bathala236" /></p>
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/jithendra">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jithendra" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jithendra-bathala236&" alt="jithendra-bathala236" /></p>
+<br />
+<br />
+<br />
+
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
+
