@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jithendra Bathala</h1>
-<h3 align="center">Enthusiastic Full Stack developer and CS Student 🚀</h3>
+<h1 align="center" >Hi 👋, I'm Jithendra Bathala</h1>
+<h3 align="center" >Enthusiastic Full Stack developer and CS Student 🚀</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="coding img" align="right" height="300" />
 
@@ -88,8 +88,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jithendra-bathala236&show_icons=true&locale=en" alt="jithendra-bathala236" />
 </p>
 <br />
+<br />
+<br />
 
-<h3 align="left">If you appreciate my work, a virtual coffee/tea would be a delightful way to show your support! 👉👈❤️‍🔥:</h3>
+[![An image of @jithendrabathala236's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jithendrabathala236)][holopin]
+
+[holopin]:https://www.holopin.io/@jithendrabathala236
+
+
+<h3 align="center" >Show Some love by straining repository ❤️ + 🔥 = ❤️‍🔥</h3>
+
+<h3 align="left">If you appreciate my work, a virtual coffee/tea would be a delightful way to show your support! ❤️‍🔥👉👈:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/jithendra">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jithendra" />
@@ -101,4 +110,6 @@
 <br />
 
 <h3 align="center">Thanks for visiting my profile ❤️🚀</h3>
+
+
 
