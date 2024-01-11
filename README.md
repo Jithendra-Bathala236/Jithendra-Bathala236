@@ -1,4 +1,4 @@
-<h1 align="center" >Hey 👋, Jithendra Bathala Here and there?</h1>
+<h1 align="center" >Hey 👋, Jithendra Bathala Here</h1>
 <h3 align="center" >Enthusiastic Full Stack developer and CS Student 🚀</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="coding img" align="right" height="250" />
