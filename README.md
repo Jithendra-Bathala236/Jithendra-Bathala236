@@ -1,7 +1,7 @@
 <h1 align="center" >Hi 👋, I'm Jithendra Bathala</h1>
 <h3 align="center" >Enthusiastic Full Stack developer and CS Student 🚀</h3>
 
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="coding img" align="right" height="300" />
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="coding img" align="right" height="250" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
