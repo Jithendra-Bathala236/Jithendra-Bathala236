@@ -98,7 +98,7 @@
 
 <h3 align="center" >Show Some love by straining repository ❤️ + 🔥 = ❤️‍🔥</h3>
 
-<h3 align="left">If you appreciate my work, a virtual coffee/tea would be a delightful way to show your support! ❤️‍🔥👉👈:</h3>
+<h3 align="left">If you appreciate my work, a virtual coffee would be a delightful way to show your support! ❤️‍🔥👉👈:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/jithendra">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jithendra" />
